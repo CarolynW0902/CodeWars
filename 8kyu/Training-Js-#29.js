@@ -26,3 +26,5 @@ function bigToSmall(arr){
   return result
   
 }
+
+//
